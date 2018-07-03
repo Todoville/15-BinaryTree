@@ -12,14 +12,14 @@ const postOrderTraversal = (rootNode, callback) => {
   if (!rootNode) return undefined;
   postOrderTraversal(rootNode.left, callback);
   postOrderTraversal(rootNode.right, callback);
-  callback(rootNode);
+  callback(rootNode.value);
   return undefined;
 };
 
 const inOrderTraversal = (rootNode, callback) => {
   if (!rootNode) return undefined;
   inOrderTraversal(rootNode.left, callback);
-  callback(rootNode);
+  callback(rootNode.value);
   inOrderTraversal(rootNode.right, callback);
   return undefined;
 };
