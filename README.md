@@ -1,22 +1,6 @@
-# DATA STRUCTURES AND ALGORITHMS TEMPLATE README
-## Travis Badge
-<!-- YOUR TRAVIS CI BADGE HERE -->
-
-## Challenge
-<!-- YOUR PROBLEM DOMAIN HERE -->
-
-## Whiteboarding Solution:
- <!--YOUR GITHUB IMAGE URL BELOW  -->
-![alt text](YOUR-IMAGE-URL-HERE.jpg)
-
-## Code Solution
-<!-- YOUR CODE HERE -->
-
-<!-- ====================================================================== -->
-
 # LAB TEMPLATE README
 ## Travis Badge
-<!-- YOUR TRAVIS CI BADGE HERE -->
+Okay I cannot for the life of me find a travis badge please show me how to do this sometime soon rofl. I've never been able to locate where to actually get the image for this. 
 
 ## Code
-<!-- YOUR CODE DESCRIPTION HERE -->
+This is a modularized setup that creates a binary tree and showcases several different methods of traversal. 
